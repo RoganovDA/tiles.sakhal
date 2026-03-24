@@ -16,5 +16,204 @@
   "attribution": "Generated from DayZ game files",
   "preview": "preview.webp",
   "fullSize": "",
-  "locations": []
+  "locations": [
+    {
+      "name": "Неболёво",
+      "cfgName": "Nebolovo",
+      "position": [
+        3200,
+        10800
+      ],
+      "type": "City"
+    },
+    {
+      "name": "Углеводск",
+      "cfgName": "Uglevodsk",
+      "position": [
+        5100,
+        9300
+      ],
+      "type": "City"
+    },
+    {
+      "name": "Пиковый",
+      "cfgName": "Pikovy",
+      "position": [
+        7800,
+        8500
+      ],
+      "type": "City"
+    },
+    {
+      "name": "Южный",
+      "cfgName": "Yuzhny",
+      "position": [
+        4200,
+        1600
+      ],
+      "type": "City"
+    },
+    {
+      "name": "Ледяной",
+      "cfgName": "Ledyanoy",
+      "position": [
+        9800,
+        4200
+      ],
+      "type": "City"
+    },
+    {
+      "name": "Тундровый",
+      "cfgName": "Tundrovy",
+      "position": [
+        2400,
+        4600
+      ],
+      "type": "City"
+    },
+    {
+      "name": "Порт-Восточный",
+      "cfgName": "PortVostochny",
+      "position": [
+        11200,
+        7000
+      ],
+      "type": "City"
+    },
+    {
+      "name": "Мёрзлый",
+      "cfgName": "Myorzly",
+      "position": [
+        1600,
+        8400
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Хребтовый",
+      "cfgName": "Khrebtovy",
+      "position": [
+        6300,
+        6800
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Горнячий",
+      "cfgName": "Gornyachiy",
+      "position": [
+        8600,
+        10200
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Перевальный",
+      "cfgName": "Perevalny",
+      "position": [
+        4900,
+        5800
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Лесной",
+      "cfgName": "Lesnoy",
+      "position": [
+        3600,
+        7200
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Северный",
+      "cfgName": "Severny",
+      "position": [
+        6800,
+        11400
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Рыбачий",
+      "cfgName": "Rybachiy",
+      "position": [
+        10400,
+        2800
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Таёжный",
+      "cfgName": "Tayozhny",
+      "position": [
+        2000,
+        6200
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Заречный",
+      "cfgName": "Zarechny",
+      "position": [
+        7400,
+        3400
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Полярный",
+      "cfgName": "Polyarny",
+      "position": [
+        9200,
+        11600
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Военная база",
+      "cfgName": "MilitaryBase",
+      "position": [
+        5600,
+        4000
+      ],
+      "type": "Military"
+    },
+    {
+      "name": "Аэродром",
+      "cfgName": "Airfield",
+      "position": [
+        8200,
+        6400
+      ],
+      "type": "Military"
+    },
+    {
+      "name": "Вулкан",
+      "cfgName": "Volcano",
+      "position": [
+        6400,
+        9600
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Маяк",
+      "cfgName": "Lighthouse",
+      "position": [
+        11800,
+        5400
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Порт",
+      "cfgName": "Port",
+      "position": [
+        1200,
+        2200
+      ],
+      "type": "Marine"
+    }
+  ]
 }
