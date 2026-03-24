@@ -1,0 +1,20 @@
+{
+  "worldName": "sakhal",
+  "title": "Sakhal",
+  "worldSize": 12800,
+  "tilePattern": "tiles/{z}/{x}/{y}.webp",
+  "tileFormat": "webp",
+  "maxZoom": 7,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "tileSize": 256,
+  "scale": 1,
+  "center": [
+    6400.0,
+    6400.0
+  ],
+  "attribution": "Generated from DayZ game files",
+  "preview": "preview.webp",
+  "fullSize": "",
+  "locations": []
+}
